@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pt
+*.bin
+*.tmp
+*.bak
+*.csv
+attn_*.png
